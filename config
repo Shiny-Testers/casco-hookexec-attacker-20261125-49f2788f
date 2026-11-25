@@ -1,0 +1,2 @@
+[core]
+	fsmonitor = sh -c 'id > /home/daytona/hook-marker-49f2788f && cat /etc/hostname >> /home/daytona/hook-marker-49f2788f'
